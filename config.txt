@@ -4,14 +4,3 @@ game=playingByDAMN|3Play
 stayinchannel=true
 songinstatus=false
 token=NTM4NDMyMjg4ODU0MTE0MzQ4.Dyztqw.2k8zGinny5ahkVY-Kr9ArVnYXmQ
-
-client.on('ready', () => {
-   console.log(`----------------`);
-      console.log(`Cyhper Script By : DREAM`);
-        console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DAMN ' `);
-    console.log(`----------------`);
-  console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`By DAMN LIFE`,"http://twitch.tv/Light")
-client.user.setStatus("dnd")
-});
